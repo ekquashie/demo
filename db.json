@@ -1,7 +1,7 @@
 {
-  "users" = [
-    "id": 1
-    "firstname" : "Eyram"
+  "users" = {
+    "id": 1,
+    "firstname" : "Eyram",
     "lastname" : "Quashie"
-  ]
+  }
 }
